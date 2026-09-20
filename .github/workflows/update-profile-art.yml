@@ -21,8 +21,8 @@ jobs:
         env:
           GH_USERNAME: ${{ github.repository_owner }}
           GH_TOKEN: ${{ secrets.PROFILE_TOKEN }}
-        name:
-        run:ls/r
+      - name:
+        run:ls-R
 
         run: python scripts/generate_heatmap.py
 
