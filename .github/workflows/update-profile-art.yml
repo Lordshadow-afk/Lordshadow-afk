@@ -17,13 +17,22 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Debug — show what checkout actually pulled
+        run: |
+          echo "Branch/ref checked out:"
+          git branch --show-current
+          git rev-parse HEAD
+          echo "---"
+          echo "Repo root contents:"
+          ls -la
+          echo "---"
+          echo "scripts/ contents (if it exists):"
+          ls -la scripts/ || echo "scripts/ NOT FOUND at runtime"
+
       - name: Generate heatmap
         env:
           GH_USERNAME: ${{ github.repository_owner }}
           GH_TOKEN: ${{ secrets.PROFILE_TOKEN }}
-      - name:
-        run:ls-R
-
         run: python scripts/generate_heatmap.py
 
       - name: Commit changes
