@@ -5,7 +5,7 @@
      portrait: replace avatar-ascii.svg with a real ASCII render of your photo
      wordmark: replace wordmark.svg with your own handle rendered as 3D ASCII -->
 
-<h3><code>lordshadow@github ~ $ whoami</code></h3>
+
 
 <table>
 <tr>
@@ -20,14 +20,13 @@
 <!-- contribution graph: swap for a real generated heatmap, or wire up a
      GitHub Actions workflow to regenerate it daily -->
 
-<h3><code>lordshadow@github ~ $ ./contributions.sh</code></h3>
 
 <img src="./contrib-heatmap.svg" width="860" alt="Lordshadow-afk's GitHub contribution graph" />
 
 <br>
 <br>
 
-<h3><code>lordshadow@github ~ $ ./links.sh</code></h3>
+
 
 <p><b>[Your Title] · [Your Focus Area] · [Your Other Focus]</b></p>
 
