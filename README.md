@@ -30,7 +30,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-yoursite.com-0d0102?style=for-the-badge&logo=vercel&logoColor=white)](https://yoursite.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ashirbinhamid-c81e1e?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/ashir-bin-hamid-277b76353/)
-[![Instagram](https://img.shields.io/badge/Instagram-your__handle-c81e1e?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ashirbinhamid/)
+[![Instagram](https://img.shields.io/badge/Instagram-ashirbinhamid-c81e1e?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ashirbinhamid/)
 [![Live Terminal](https://img.shields.io/badge/⚡_Live_Terminal-lordshadow--afk.github.io-ff5b5b?style=for-the-badge&logo=gnometerminal&logoColor=black)](https://lordshadow-afk.github.io)
 
 <br>
